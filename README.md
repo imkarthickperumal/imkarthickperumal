@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking forward to collaborate on projects.
 
-- 💬 Ask me about **JavaScript.**
+- 💬 Ask me about **JavaScript & React**
 
 - 📫 How to reach me **karthickperumal.vp@gmail.com**
 
-- 😄 Pronouns: He/His
+- ⚡ Fun fact I think I'm thinking funny product Ideas😎
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imkarthickperumal)
