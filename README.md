@@ -21,7 +21,6 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imkarthickperumal)
-[![Twitter](https://img.shields.io/twitter/follow/_karthikperumal?logo=Twitter&style=for-the-badge)](https://twitter.com/_karthikperumal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imkarthickperumal) 
 
 ## 💻 Tech Stack
