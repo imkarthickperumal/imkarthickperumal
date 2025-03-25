@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Karthick Perumal</h1>
 <h3 align="center">A Passionate MERN stack developer From India</h3>
 
-- 🔭 I’m currently working on CODD Technologies
+- 🔭 I’m currently working on Xentrix Hi-Tech (P) LTD
 
 - 🌱 I’m currently learning more about TypeScript, Next.js, Node.js. 
 
